@@ -16,3 +16,13 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 Utilizzare https://www.diagrams.net/ per la creazione dello schema.
 
 Esportare quindi il diagramma in jpg e caricarlo nella repo.
+
+---
+
+## Parte 2
+
+Dopo aver creato un nuovo database nel vostro phpMyAdmin e aver importato lo schema allegato, eseguite le query del file allegato.
+
+Cosa consegnare?
+
+Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file txt e caricatelo nella vostra repo.
